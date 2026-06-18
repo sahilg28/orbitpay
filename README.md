@@ -20,10 +20,13 @@ A modern Stellar testnet payment dApp built with React, Vite, and TailwindCSS. C
 ## Screenshots
 
 ### Wallet Connected & Balance Displayed
-*(Add screenshot here)*
+![Wallet Connected](public/walletconnect.png)
 
-### Successful Transaction
-*(Add screenshot here)*
+### Transaction Submitted
+![Transaction](public/transaction2.png)
+
+### Transaction Successful
+![Transaction Successful](public/transactionsuccesful.png)
 
 ## Tech Stack
 
